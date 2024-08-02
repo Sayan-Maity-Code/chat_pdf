@@ -127,6 +127,14 @@ The system uses several pre-trained models:
 - **CLIP**: `openai/clip-vit-base-patch32` for potential future image-related tasks.
 - **FLAN-T5**: `google/flan-t5-large` for text generation and question answering.
 
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 These models should be downloaded separately due to their size.
 
 ## Custom CSS
